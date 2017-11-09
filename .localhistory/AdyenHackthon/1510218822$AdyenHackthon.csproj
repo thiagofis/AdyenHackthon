@@ -162,7 +162,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Scripts\checkout\apay.png" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
@@ -173,20 +172,6 @@
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
-    <Content Include="Scripts\checkout\activityi%281%29.html" />
-    <Content Include="Scripts\checkout\activityi%282%29.html" />
-    <Content Include="Scripts\checkout\activityi.html" />
-    <Content Include="Scripts\checkout\essentials.min.css" />
-    <Content Include="Scripts\checkout\fonts.min.css" />
-    <Content Include="Scripts\checkout\icongliphs.min.css" />
-    <Content Include="Scripts\checkout\loader_ico.svg" />
-    <Content Include="Scripts\checkout\logo_b.svg" />
-    <Content Include="Scripts\checkout\norton_secure_seal.svg" />
-    <Content Include="Scripts\checkout\payment.min.css" />
-    <Content Include="Scripts\checkout\paymentTabs.min.css" />
-    <Content Include="Scripts\checkout\payment_paypalexp.svg" />
-    <Content Include="Scripts\checkout\review.min.css" />
-    <Content Include="Scripts\checkout\saved_resource.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -202,36 +187,6 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Checkout\Index.cshtml" />
-    <Content Include="Scripts\checkout\0" />
-    <Content Include="Scripts\checkout\371589359697106" />
-    <Content Include="Scripts\checkout\7250f8a068" />
-    <Content Include="Scripts\checkout\analytics.js.download" />
-    <Content Include="Scripts\checkout\bat.js.download" />
-    <Content Include="Scripts\checkout\bk-coretag.js.download" />
-    <Content Include="Scripts\checkout\conversion_async.js.download" />
-    <Content Include="Scripts\checkout\core.js.download" />
-    <Content Include="Scripts\checkout\ec.js.download" />
-    <Content Include="Scripts\checkout\farfetch-custom-parent-selector-pfb.min.js.download" />
-    <Content Include="Scripts\checkout\fbevents.js.download" />
-    <Content Include="Scripts\checkout\gtm.js.download" />
-    <Content Include="Scripts\checkout\identity.js.download" />
-    <Content Include="Scripts\checkout\jquery-1.10.2.js.download" />
-    <Content Include="Scripts\checkout\jquery.cookie.js.download" />
-    <Content Include="Scripts\checkout\main.js.download" />
-    <Content Include="Scripts\checkout\mentionme-tag-library-v2-28e8610.js.download" />
-    <Content Include="Scripts\checkout\nr-1044.min.js.download" />
-    <Content Include="Scripts\checkout\opentag-33446-1640858.js.download" />
-    <Content Include="Scripts\checkout\payment.js.download" />
-    <Content Include="Scripts\checkout\qtracker-5.0.0.min.js.download" />
-    <Content Include="Scripts\checkout\requirejs.js.download" />
-    <Content Include="Scripts\checkout\resxclsx.js.download" />
-    <Content Include="Scripts\checkout\review.js.download" />
-    <Content Include="Scripts\checkout\saved_resource" />
-    <Content Include="Scripts\checkout\saved_resource%281%29" />
-    <Content Include="Scripts\checkout\saved_resource%282%29" />
-    <Content Include="Scripts\checkout\saved_resource%283%29" />
-    <Content Include="Scripts\checkout\smartserve-2034.js.download" />
-    <Content Include="Scripts\checkout\vt-94.js.download" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
